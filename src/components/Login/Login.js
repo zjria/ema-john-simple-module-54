@@ -29,7 +29,7 @@ const Login = () => {
                     <br />
                     <input type="submit" value="Submit" />
                 </form>
-                <p>New ema-jhon <Link to ="/register">Account</Link></p>
+                <p>New ema-jhon website link <Link to ="/register">Account</Link></p>
                 <div>----------------ro....................</div>
 
                 <button 
